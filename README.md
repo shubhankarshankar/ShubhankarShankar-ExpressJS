@@ -2,6 +2,8 @@
 
 In this repo, we have shown the basic syntax for using express js to build basic http routes and rest api.
 
+This Project was made by Ashish Alok, Kunal Singh Chauhan and Shubhankar Shankar for the presentation in the training under BYTE Program.
+
 ## Running this Project
 
 To run this project you will require the following prerequisites:
